@@ -1,0 +1,17 @@
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\bin\Debug\net7.0\BiblioTechIoc.deps.json
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\bin\Debug\net7.0\BiblioTechIoc.dll
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\bin\Debug\net7.0\BiblioTechIoc.pdb
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\bin\Debug\net7.0\BiblioTechData.dll
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\bin\Debug\net7.0\BiblioTechDomain.dll
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\bin\Debug\net7.0\BiblioTechData.pdb
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\bin\Debug\net7.0\BiblioTechDomain.pdb
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\obj\Debug\net7.0\BiblioTechIoc.csproj.AssemblyReference.cache
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\obj\Debug\net7.0\BiblioTechIoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\obj\Debug\net7.0\BiblioTechIoc.AssemblyInfoInputs.cache
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\obj\Debug\net7.0\BiblioTechIoc.AssemblyInfo.cs
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\obj\Debug\net7.0\BiblioTechIoc.csproj.CoreCompileInputs.cache
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\obj\Debug\net7.0\BiblioTechIoc.csproj.CopyComplete
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\obj\Debug\net7.0\BiblioTechIoc.dll
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\obj\Debug\net7.0\refint\BiblioTechIoc.dll
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\obj\Debug\net7.0\BiblioTechIoc.pdb
+C:\Users\Fabiola\Desktop\CSharp\BiblioTech\BiblioTechIoc\obj\Debug\net7.0\ref\BiblioTechIoc.dll
